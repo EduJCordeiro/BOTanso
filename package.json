@@ -1,0 +1,27 @@
+{
+  "name": "BOTanso",
+  "version": "1.0.0",
+  "description": "Esse será um BOT para discord chamado BOTanso!",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EduJCordeiro/BOTanso.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EduJCordeiro/BOTanso/issues"
+  },
+  "homepage": "https://github.com/EduJCordeiro/BOTanso#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
